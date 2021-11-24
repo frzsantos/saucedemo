@@ -15,7 +15,7 @@ VS Studio ou editor de sua preferência
 
 Clone do repositório
 ```
-##
+https://github.com/frzsantos/saucedemo.git
 ```
 
 Instalação das dependências
@@ -32,7 +32,4 @@ npx cypress open
 
 * [Cypress](https://www.cypress.io/) 
 * [VS Studio](https://visualstudio.microsoft.com/pt-br/) 
-* [Node.js](https://nodejs.org/en/) # saucedemo
-
-# sauce
-
+* [Node.js](https://nodejs.org/en/)
