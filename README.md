@@ -1,7 +1,11 @@
 # Execução de testes End to End - Swaglab
 
+```
 Execução de testes demonstrando um ciclo end to end do usuário no 'e-commerce' Swaglab.
+```
+```
 Utilizando padrão de desenvolvimento PageObjects.
+```
 
 ### 📋 Pré-requisitos
 
