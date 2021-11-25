@@ -1,39 +1,39 @@
-# Execução de testes End to End - Swaglab
+# Executing Tests End to End - SauceDemo
 
 ```
-Execução de testes demonstrando um ciclo end to end do usuário no 'e-commerce' Swaglab.
+Running tests demonstrating an end-to-end user cycle in SauceDemo 'e-commerce'.
 ```
 ```
-Utilizando padrão de desenvolvimento PageObjects.
+Using the PageObjects development pattern.
 ```
 
-### 📋 Pré-requisitos
+### 📋 Pre-requisites
 
 ```
 Node.js
 ```
 ```
-VS Studio ou editor de sua preferência
+VS Studio or editor of your choice
 ```
 
-## ⚙️ Executando os testes
+## ⚙️ Executing the tests
 
-Clone do repositório
+Clone of the repository
 ```
 https://github.com/frzsantos/saucedemo.git
 ```
 
-Instalação das dependências
+Installing the dependencies
 ```
 npm install
 ```
 
-Execução do Cypress para testes
+Running Cypress for Testing
 ```
 npx cypress open
 ```
 
-## 🛠️ Desenvolvido com
+## 🛠️ Developed with
 
 * [Cypress](https://www.cypress.io/) 
 * [VS Studio](https://visualstudio.microsoft.com/pt-br/) 
